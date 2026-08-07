@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "918563851043",
+    "project_id": "safesakhi-391c5",
+    "storage_bucket": "safesakhi-391c5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918563851043:android:88b251a4b8d9d623205a96",
+        "android_client_info": {
+          "package_name": "com.hackathon.SafeSakhi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918563851043-er0d2cb9mvejqkfgvl74uatkii1p679n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hackathon.SafeSakhi",
+            "certificate_hash": "6708db1eff8417c7a0343a0c7d2ccbcc25e5af18"
+          }
+        },
+        {
+          "client_id": "918563851043-bd86u6r5unhg2h25ao8s5634ickb0cap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD76TmTmvB2bhGxFWMtf1d21Yo11Vkl4wE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918563851043-bd86u6r5unhg2h25ao8s5634ickb0cap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

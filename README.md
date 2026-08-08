@@ -376,27 +376,9 @@ The application's scores and recommendations are intended as **decision-support 
 
 ## Team
 
-<div align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://github.com/YOUR_USERNAME.png" width="90px" style="border-radius:50%"/>
-</a>
-
-    
-
-<a href="https://github.com/CONTRIBUTOR_2">
-<img src="https://github.com/CONTRIBUTOR_2.png" width="90px" style="border-radius:50%"/>
-</a>
-
-    
-
-<a href="https://github.com/CONTRIBUTOR_3">
-<img src="https://github.com/CONTRIBUTOR_3.png" width="90px" style="border-radius:50%"/>
-</a>
-
 <br><br>
 
-**YOUR NAME**    ·    **CONTRIBUTOR 2**    ·    **CONTRIBUTOR 3**
+**Yuvraj Kumar**    ·    **Keshav Raj**    ·    **Sneha Kumari**
 
 <br>
 

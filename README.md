@@ -356,7 +356,7 @@ The application's scores and recommendations are intended as **decision-support 
 
 <div align="center">
 
-<img src="assets/logo.png" width="100"/>
+<img src="assets/app_icon.png" width="100"/>
 
 <br><br>
 

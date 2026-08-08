@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.png" alt="SafeSakhi" width="180"/>
+<img src="assets/app_icon.png" alt="SafeSakhi" width="180"/>
 
 <br><br>
 
@@ -408,7 +408,7 @@ The application's scores and recommendations are intended as **decision-support 
 
 <div align="center">
 
-<img src="assets/logo.png" width="70"/>
+<img src="assets/app_icon.png" width="70"/>
 
 <br><br>
 

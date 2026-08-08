@@ -285,22 +285,6 @@ The emergency layer is intentionally designed to minimize the number of steps be
 
 ---
 
-## Demo
-
-<div align="center">
-
-<img src="assets/demo.gif" width="780" alt="SafeSakhi demonstration"/>
-
-<br><br>
-
-<a href="YOUR_DEMO_LINK">
-  <img src="https://img.shields.io/badge/View%20Demo-8B5CF6?style=for-the-badge&logoColor=white"/>
-</a>
-
-</div>
-
----
-
 ## Why SafeSakhi?
 
 Navigation has become extremely good at answering one question:
